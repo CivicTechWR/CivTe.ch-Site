@@ -33,14 +33,14 @@
   				</div>
 			</div>
 			<div class="card">
-  				<img class="card-img-top" src="../images/jonathan.png" alt="Image of ...">
+  				<img class="card-img-top" src="../images/dougakers.jpg" alt="Image of Doug Akers">
   				<div class="card-block">
-    					<h4 class="card-title">...</h4>
-    					<p class="card-text">...</p>
-    					<a class="btn btn-social-icon btn-github" href="https://github.com/CivicTechWR" target="_blank"><span class="fa fa-github"></span></a>
-			  		<a class="btn btn-social-icon btn-linkedin" href="#" target="_blank"><span class="fa fa-linkedin"></span></a>
-			  		<a class="btn btn-social-icon btn-flickr" href="#" target="_blank"><span class="fa fa-flickr"></span></a>
-
+    					<h4 class="card-title">Doug Akers</h4>
+    					<p class="card-text">Doug is a business and technology leader, product manager, customer advocate, husband, father and beekeeper.</p>
+					<a class="btn btn-social-icon btn-twitter" href="https://twitter.com/spiderdoodle42" target="_blank"><span class="fa fa-twitter"></span></a>
+    					<a class="btn btn-social-icon btn-github" href="https://github.com/dougakers" target="_blank"><span class="fa fa-github"></span></a>
+			  		<a class="btn btn-social-icon btn-linkedin" href="https://www.linkedin.com/in/dougakers42" target="_blank"><span class="fa fa-linkedin"></span></a>
+					<a class="btn btn-social-icon btn-instagram" href="https://www.instagram.com/spiderdoodle/" target="_blank"><span class="fa fa-instagram"></span></a>
 
   				</div>
 			</div>
