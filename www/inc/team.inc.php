@@ -21,7 +21,7 @@
   				</div>
 			</div>
 			<div class="card">
-  				<img class="card-img-top" src="../images/kristina.jpg" alt="Image of Kristina Taylor">
+  				<img class="card-img-top" src="../images/Kristina.jpg" alt="Image of Kristina Taylor">
   				<div class="card-block">
     					<h4 class="card-title">Kristina Taylor</h4>
     					<p class="card-text">Kristina is technical product manager at Tulip Retail.</p>
