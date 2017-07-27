@@ -1,0 +1,70 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine on
+
+
+# block visitors referred from semalt.com
+RewriteCond %{HTTP_REFERER} semalt\.com [NC]
+RewriteRule .* – [F]
+# End semalt block
+
+# block referer spam buttons for website
+RewriteCond %{HTTP_REFERER} buttons\-for\-website\.com
+RewriteRule ^.* - [F,L]
+# End buttons for website block
+
+# block referer spam buttons for your website
+RewriteCond %{HTTP_REFERER} buttons\-for\-your\-website\.com
+RewriteRule ^.* - [F,L]
+# End buttons for your website block
+
+# block referer seo best offer
+RewriteCond %{HTTP_REFERER} best\-seo\-offer\.com
+RewriteRule ^.* - [F,L]
+# End seo best offer block
+
+# block referer best seo solution
+RewriteCond %{HTTP_REFERER} best\-seo\-solution\.com
+RewriteRule ^.* - [F,L]
+# End seo best seo solution block
+
+# block referer spam simple share buttons
+RewriteCond %{HTTP_REFERER} simple\-share\-buttons\.com
+RewriteRule ^.* - [F,L]
+# End simple share buttons block
+
+# block referer spam social buttons
+RewriteCond %{HTTP_REFERER} social\-buttons\.com
+RewriteRule .* – [F]
+# End social buttons block
+
+
+
+
+# HTTP to HTTPs
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+
+RewriteRule ^about/?$ index.php?content=about [NC,L]
+RewriteRule ^resources/?$ index.php?content=resources [NC,L]
+RewriteRule ^blog/?$ index.php?content=blog [NC,L]
+RewriteRule ^opendata/?$ index.php?content=opendata [NC,L]
+RewriteRule ^projects/?$ index.php?content=projects [NC,L]
+RewriteRule ^team/?$ index.php?content=team [NC,L]
+RewriteRule ^events/?$ index.php?content=events [NC,L]
+RewriteRule ^contact/?$ index.php?content=contact [NC,L]
+RewriteRule ^article/(.*)$ index.php?content=article&id=$1 [NC,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php?content=$1 [L,QSA]
+
+
+
+# Error 404
+ErrorDocument 404 https://civte.ch/inc/error404.inc.php
+
+
+
+
