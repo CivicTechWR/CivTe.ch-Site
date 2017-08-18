@@ -17,14 +17,14 @@
     			<a href="https://twitter.com/civictechwr" class="btn btn-block btn-social btn-twitter">
    				 <span class="fa fa-twitter"></span> Read our latest Tweets
   			</a>
-  			<a href="#" class="btn btn-block btn-social btn-facebook">
+  			<a href="https://www.facebook.com/CivicTechWR" class="btn btn-block btn-social btn-facebook">
    				 <span class="fa fa-facebook"></span> Join us on Facebook
   			</a>
   			<a href="https://github.com/CivicTechWR" class="btn btn-block btn-social btn-github">
    				 <span class="fa fa-github"></span> Fork us on GitHub
   			</a>
-  			<a href="https://linkedin.com" class="btn btn-block btn-social btn-linkedin">
-   				 <span class="fa fa-linkedin"></span> Connect on LinkedIn
+  			<a href="https://medium.com/civictechwr" class="btn btn-block btn-social btn-medium">
+   				 <span class="fa fa-medium"></span> Connect on Medium
   			</a>
         <br>
         <p style="text-align:center;"><span class="fa fa-slack"></span> Get invited to our <a href="https://civictechwrslack.herokuapp.com/" target="_blank">Slack Group</a></p>
