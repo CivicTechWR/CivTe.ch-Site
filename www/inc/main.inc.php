@@ -15,7 +15,7 @@
 	<p class="lead dark-box">CivicTechWR is an inclusive multi-disciplinary group working together to improve the lives of the residents of Waterloo Region through civic technology.
 </p>
 	<div class="social-box">
-		<a href="https://twitter.com/civictechwr" target="_blank">Twitter</a> / <a href="#" target="_blank">Facebook</a> / <a href="https://github.com/CivicTechWR" target="_blank">Git</a> / <a href="https://civictechwrslack.herokuapp.com/" target="_blank">Slack</a> / <a href="https://civte.ch/about">Learn more</a>
+		<a href="https://twitter.com/civictechwr" target="_blank">Twitter</a> / <a href="https://www.facebook.com/CivicTechWR" target="_blank">Facebook</a> / <a href="https://medium.com/civictechwr" target="_blank">Medium</a> / <a href="https://github.com/CivicTechWR" target="_blank">Git</a> / <a href="https://civictechwrslack.herokuapp.com/" target="_blank">Slack</a> / <a href="https://civte.ch/about">Learn more</a>
 	</div>
 	<div class="rotating-logo">
 		<img src="../images/logo.png" class="rotating logo" alt="logo">
