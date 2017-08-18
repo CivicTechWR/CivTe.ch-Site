@@ -8,20 +8,7 @@
 	</div>
 	<div class="section-box">
 		<div class="container">
-
-			<div id='calendar'></div>
+			<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=civictechwr%40gmail.com&amp;color=%23234C72&amp;ctz=America%2FToronto" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 		</div>
 	</div>
 </main>
-
-<script>
-$(document).ready(function() {
-
-    // page is now ready, initialize the calendar...
-
-    $('#calendar').fullCalendar({
-        // put your options and callbacks here
-    })
-
-});
-</script>
