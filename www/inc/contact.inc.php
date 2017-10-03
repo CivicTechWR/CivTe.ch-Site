@@ -26,6 +26,9 @@
   			<a href="https://medium.com/civictechwr" class="btn btn-block btn-social btn-medium">
    				 <span class="fa fa-medium"></span> Connect on Medium
   			</a>
+  			<a href="https://www.meetup.com/CivicTechWR" class="btn btn-block btn-social btn-meetup">
+   				 <span class="fa fa-meetup"></span> Connect on Meetup
+  			</a>
         <br>
         <p style="text-align:center;"><span class="fa fa-slack"></span> Get invited to our <a href="https://civictechwrslack.herokuapp.com/" target="_blank">Slack Group</a></p>
   		</div>

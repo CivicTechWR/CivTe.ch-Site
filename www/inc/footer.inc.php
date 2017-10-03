@@ -3,9 +3,9 @@
 
 		<div class="always-50">
 			<a class="btn btn-social-icon btn-twitter" href="https://twitter.com/civictechwr" target="_blank"><span class="fa fa-twitter"></span></a>
-			 <a class="btn btn-social-icon btn-facebook" href="#" target="_blank"><span class="fa fa-facebook"></span></a> 
+			 <a class="btn btn-social-icon btn-facebook" href="https://www.facebook.com/CivicTechWR" target="_blank"><span class="fa fa-facebook"></span></a> 
 			 <a class="btn btn-social-icon btn-github" href="https://github.com/CivicTechWR" target="_blank"><span class="fa fa-github"></span></a>
-			  <a class="btn btn-social-icon btn-linkedin" href="#" target="_blank"><span class="fa fa-linkedin"></span></a>
+			 <a class="btn btn-social-icon btn-meetup" href="https://meetup.com/CivicTechWR" target="_blank"><span class="fa fa-meetup"></span></a>
 		</div>
 		<div class="always-50">
 			
