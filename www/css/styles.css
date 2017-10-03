@@ -565,6 +565,11 @@ projects-page #accordion-1 .card:nth-child(even){
   color:#ffccd0;
 }
 
+/* EVENTS PAGE */
+.events-page iframe {
+	width:100%;
+}
+
 /* MEDIA QUERIES */
 
 @media (max-width: 991px){
